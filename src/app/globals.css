@@ -1,0 +1,39 @@
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	white-space: nowrap;
+	line-height: 60px;
+}
+
+.container-body {
+	background-image: url(/images/ali-elliott-_pH4sKRfgYY-unsplash.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-color: #1e1e1e;
+	background-size: 100%;
+}
+
+.sessions-wrapper {
+  background-color: rgba(30, 30, 30, 0.85);
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.6);
+}
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+
+
+
